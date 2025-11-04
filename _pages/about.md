@@ -9,7 +9,7 @@ redirect_from:
 I'm currently a master's student in New York University(expect to graduate in May, 2026). I received my bachelor's degree in Computer Science at [ShanghaiTech University](https://www.shanghaitech.edu.cn/eng/).
 
 🚧Ongoing Porjects: 
-I'm conducting first-author research at [Agentic Learning AI Lab](https://agenticlearning.ai/) at the NYU Center for Data Science, supervised by [Prof. Mengye Ren](https://mengyeren.com/), metored by [Yanlai Yang]([https://google.com](https://yanlai00.github.io/)). Focusing on integrating contrastive learning with compositional learning(object-centric leanring to be specific).
+I'm conducting first-author research at [Agentic Learning AI Lab](https://agenticlearning.ai/) at the NYU Center for Data Science, supervised by [Prof. Mengye Ren](https://mengyeren.com/), mentored by [Yanlai Yang]([https://google.com](https://yanlai00.github.io/)). Focusing on integrating contrastive learning with compositional learning(object-centric leanring to be specific).
 
 My research interest lies in building interpretable machine intelligence and multimodal systems that can adapt to natural environments.
 
